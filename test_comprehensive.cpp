@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include <cassert>
-#include "CrossArray.hpp"
+#include "src.hpp"
 
 void test_basic_functionality() {
     std::cout << "Testing basic functionality..." << std::endl;

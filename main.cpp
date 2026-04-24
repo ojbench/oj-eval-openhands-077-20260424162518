@@ -2,7 +2,7 @@
 
 
 #include <iostream>
-#include "CrossArray.hpp"
+#include "src.hpp"
 
 int main() {
     // Simple test to verify compilation
